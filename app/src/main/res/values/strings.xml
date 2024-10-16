@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday App</string>
+    <string name="congrats_msg">Congrats Joy for winning the award</string>
+    <string name="from_msg">From Joash</string>
+</resources>
